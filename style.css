@@ -1,0 +1,65 @@
+.section{
+    margin-left: 5%;
+    }
+    .intro{
+    font-size: 20px;
+    font-family: cursive;
+    margin-top: 8%;
+    }
+    .cl{
+    color: tomato;
+    }
+    .btn{
+        border: none;
+        padding: 10px 10px;
+        font-size: 15px;
+        font-weight: 800;
+        height: 50px;
+        width: 100px;
+        background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+         color:tomato;
+        cursor: pointer;
+        border-radius: 5%;
+        }
+    .prot{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    }
+    .img{
+        margin-left: 8%;
+        
+    }
+    .img img{
+        width: 300px;
+        height: 300px;
+        margin-left: 30px;
+    }
+    .img-g{
+        margin-top: 10%;
+    
+    }
+    .exprre{
+        font-size: 60px;
+        font-family: cursive;
+    }
+.card-section{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
+.card1{
+    width: 500px;
+    border-left: 8px solid tomato;
+    box-shadow: 8px 8px 8px 5px black;
+    font-family: cursive;
+}
+.card2{
+    width: 500px;
+    border-left: 8px solid tomato;
+    box-shadow: 8px 8px 8px 5px black;
+    font-family: cursive;
+}
+.footer{
+    margin-top: 8%;
+    font-family: cursive;
+    text-align: center;
+}
